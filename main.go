@@ -4,11 +4,11 @@ import (
 	"log"
 	"os"
 
-	"github.com/simpukr/chip8/render"
+	"github.com/simpuid/chip8/render"
 
-	"github.com/simpukr/chip8/configuration"
+	"github.com/simpuid/chip8/configuration"
 
-	"github.com/simpukr/chip8/chip"
+	"github.com/simpuid/chip8/chip"
 )
 
 // Reads arguments and do accordingly

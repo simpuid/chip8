@@ -2,7 +2,7 @@
 A chip8 interpreter written in GO lang
 ## Building the project
 This project depends on go-sdl2 `github.com/veandco/go-sdl2`, so it is required to build the project.  
-Get the project through `$ go get github.com/simpukr/chip8`. This will create a directory named `chip8` in the directory `$GOPATH/src/github.com/simpukr/chip8`  
+Get the project through `$ go get github.com/simpuid/chip8`. This will create a directory named `chip8` in the directory `$GOPATH/src/github.com/simpuid/chip8`  
 Change to the newly created directory and execute `$ go build -o <yourfilename>` where `<yourfilename>` indicates the name of the executable the project generates. This will create an executable with name <yourfilename> in the same directory.  
 ## Executing
   The program can be execute by `$ ./<yourFileName> <relativeRomPath> <relativeConfigurationPath>`  
